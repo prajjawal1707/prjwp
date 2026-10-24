@@ -1,0 +1,8 @@
+.app { max-width: 1100px; margin: 0 auto; padding: 24px; font-family: system-ui, sans-serif; }
+.note { color: #666; }
+.controls { display: flex; gap: 16px; margin: 16px 0; }
+.kpis { display: flex; gap: 12px; margin: 16px 0; flex-wrap: wrap; }
+.kpi { border: 1px solid #ddd; border-radius: 8px; padding: 12px 18px; min-width: 130px; }
+.kpi-value { font-size: 24px; font-weight: 600; }
+.kpi-label { color: #666; font-size: 13px; }
+.error { color: #c00; }
